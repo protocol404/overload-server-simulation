@@ -1,7 +1,7 @@
 # Overload Server Simulator 🔥
 
 ## Deskripsi
-**Overload Server Simulator** adalah alat pengujian beban jaringan yang dikembangkan oleh **Protocol404 Team**. Program ini dirancang untuk mensimulasikan berbagai jenis traffic jaringan guna menguji ketahanan server terhadap serangan beban tinggi dengan multi-protokol.
+**Overload Server Simulator** adalah alat pengujian beban jaringan yang dikembangkan oleh **Team Protocol404**. Program ini dirancang untuk mensimulasikan berbagai jenis traffic jaringan guna menguji ketahanan server terhadap serangan beban tinggi dengan multi-protokol.
 
 ## 🚀 Fitur Utama
 
